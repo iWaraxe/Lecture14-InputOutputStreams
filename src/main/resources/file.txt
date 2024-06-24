@@ -1,0 +1,3 @@
+This is another sample text file.
+It is placed in the resources directory.
+End of file.
